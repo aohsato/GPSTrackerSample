@@ -1,5 +1,4 @@
 GPSTrackerSample
 ========
 
-GPS tracker sample application
-iOS 8.x & Swift
+GPS tracking sample application (iOS 8.x & Swift)
